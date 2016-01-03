@@ -1,0 +1,14 @@
+layout_spectrum: 0.2510638
+typography_spectrum: 0.1702128
+color:
+  saturation: 0.6914893
+  lightness: 0.7340425
+  brandStrength: 0.5
+  rhythmicContrast: 0.3319149
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Florian Hartmann

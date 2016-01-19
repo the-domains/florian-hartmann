@@ -1,14 +1,26 @@
-layout_spectrum: 0.2510638
-typography_spectrum: 0.1702128
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2106383
 color:
-  saturation: 0.6914893
-  lightness: 0.7340425
-  brandStrength: 0.5
-  rhythmicContrast: 0.3319149
+  saturation: 0.6340426
+  brandStrength: 0
+  lightness: 0.6787234
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#125688'
+    - '#25272A'
+    - '#A5A7AA'
+    - '#FF3B30'
+  rhythmicContrast: 0.5978723
+layout_spectrum: 0.2638298
 name: Florian Hartmann
